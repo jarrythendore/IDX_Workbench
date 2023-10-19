@@ -1,1 +1,2 @@
 # IDX_Workbench
+# Details
